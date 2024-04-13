@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### I'm just some random student in Year 9
+### In the class J3E1
+### I was born on this island called Penang on 01/06/2024
+### And honestly thats all
 <!--
 **KhooP12354/KhooP12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
